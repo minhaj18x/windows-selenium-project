@@ -21,7 +21,7 @@ public class MultiScreenshot {
 
 	public void f() throws IOException, InterruptedException {
 
-		// /SeleniumAspire/target/Screenshots
+		// /SeleniumAspire/target/Screenshots - updated comment
 
 		driver.get("https://www.google.com");
 
